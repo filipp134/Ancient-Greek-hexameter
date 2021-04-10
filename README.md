@@ -6,6 +6,10 @@
   3.'ει', 'αι', 'οι', 'υι' - всегда неопределимые.
   4.'ε', 'ο' - короткие, если они не стоят перед двумя согласными.
 Вам нужно удалить знак ' во время ввода строки.
+
+
+
+
 This program can, in some cases, show the length of the syllables in the line of Ancient Greek Poetry.
 I used the following rules of defining the length of the syllable:
   1.'η','ω', 'αυ', 'ου', 'ηυ' are always long.
